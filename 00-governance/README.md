@@ -1,4 +1,4 @@
-# 00-governance — Team Rules
+#  00-governance — Team Rules
 
 > This section defines the agreements the team commits to follow throughout the project.
 > Every team member must read all documents in this section before making their first commit.
